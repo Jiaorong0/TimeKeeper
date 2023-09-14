@@ -6,4 +6,10 @@ In addition to this, TimeKeeper facilitates the crafting of daily summaries and 
 Looking ahead, I am thrilled to enhance TimeKeeper with an innovative feature that provides intelligent suggestions based on current time usage patterns. This forthcoming addition aims to further assist users in honing their time management skills, optimizing efficiency and fostering a proactive approach to time utilization.
 
 
+![preview](https://github.com/Jiaorong0/TimeKeeper/blob/master/timekeeper_Preview.png)
+
 ![timekeeper1](https://github.com/Jiaorong0/TimeKeeper/blob/master/timekeeper1.png)
+
+![timekeeper2](https://github.com/Jiaorong0/TimeKeeper/blob/master/timekeeper2.png)
+
+![timekeeper3](https://github.com/Jiaorong0/TimeKeeper/blob/master/timekeeper3.png)
