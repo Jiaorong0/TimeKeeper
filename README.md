@@ -15,17 +15,25 @@ Preview page
 ![preview](https://github.com/Jiaorong0/TimeKeeper/blob/master/Preview_page4.png)
 
 
+
+
 Main page
 ![timekeeper1](https://github.com/Jiaorong0/TimeKeeper/blob/master/timekeeper1.png)
 
-Main page
+
 ![timekeeper2](https://github.com/Jiaorong0/TimeKeeper/blob/master/timekeeper2.png)
 
-Main page
+
 ![timekeeper3](https://github.com/Jiaorong0/TimeKeeper/blob/master/timekeeper3.png)
+
+
+
 
 Sign up
 ![timekeeper3](https://github.com/Jiaorong0/TimeKeeper/blob/master/SignUp_page.png)
+
+
+
 
 Login
 ![timekeeper3](https://github.com/Jiaorong0/TimeKeeper/blob/master/Login_page.png)
