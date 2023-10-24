@@ -98,7 +98,6 @@ export default function Register(){
                         ))}
                         </tbody>
                     </div>
-
             </form>
         </div>
     )

@@ -1,7 +1,6 @@
 import React from "react";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import data from "../carouselData";
-import axios from 'axios';
 
 export default function Preview(props) {
    

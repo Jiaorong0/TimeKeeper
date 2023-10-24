@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# TimeKeeper
+TimeKeeper is a sophisticated web platform designed to empower individuals to meticulously track and analyze their time expenditure. By offering a visual representation through various charts, users can gain a clear perspective on the proportional allocation of their time across various categories on a daily basis.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In addition to this, TimeKeeper facilitates the crafting of daily summaries and the formulation of plans for the upcoming day, fostering more efficient time management and productivity. The user interface is intuitively designed, ensuring ease of use and a user-friendly experience.
 
-## Available Scripts
+Looking ahead, I am thrilled to enhance TimeKeeper with an innovative feature that provides intelligent suggestions based on current time usage patterns. This forthcoming addition aims to further assist users in honing their time management skills, optimizing efficiency and fostering a proactive approach to time utilization.
 
-In the project directory, you can run:
+Preview page
+![preview](https://github.com/Jiaorong0/TimeKeeper/blob/master/UI_page/Preview_page3.png)
 
-### `npm start`
+![preview](https://github.com/Jiaorong0/TimeKeeper/blob/master/UI_page/Preview_page2.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![preview](https://github.com/Jiaorong0/TimeKeeper/blob/master/UI_page/Preview_page1.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![preview](https://github.com/Jiaorong0/TimeKeeper/blob/master/UI_page/Preview_page4.png)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+Main page
+![timekeeper1](https://github.com/Jiaorong0/TimeKeeper/blob/master/UI_page/timekeeper1.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![timekeeper2](https://github.com/Jiaorong0/TimeKeeper/blob/master/UI_page/timekeeper2.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+![timekeeper3](https://github.com/Jiaorong0/TimeKeeper/blob/master/UI_page/timekeeper3.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Sign up
+![timekeeper3](https://github.com/Jiaorong0/TimeKeeper/blob/master/UI_page/SignUp_page.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Login
+![timekeeper3](https://github.com/Jiaorong0/TimeKeeper/blob/master/UI_page/Login_page.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

@@ -7,7 +7,6 @@ import Login from "./pages/Login"
 import Register from "./pages/Register"
 import { Route, Routes } from "react-router-dom"
 
-
 export default function App() {
 
     return(
@@ -20,11 +19,6 @@ export default function App() {
                 <Route path={"/Register"} element={< Register />} />
             </Routes>
             <Footer />
-            {/*<Preview />*/}
-            {/* <Register />*/}
-            {/* <Login />*/}
-            {/* <Main />*/}
-
         </div>
     )
 }
