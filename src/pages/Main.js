@@ -21,13 +21,6 @@ export default function Main(){
                         <Piechart 
                             data={serviceListToday}
                         />
-                        {/* the two child components (Mainform and Piechart) do not directly or indirectly pass information to each other. They both receive information from their parent component (Main), but they do not communicate with each other.
-
-                        However, the Mainform component can indirectly affect the data displayed by the Piechart component by updating the serviceListToday state in the Main component. The Mainform component receives a function named setServiceList as a prop from the Main component. This function allows the Mainform component to update the serviceListToday state in the Main component.
-
-                        When the serviceListToday state is updated in the Main component, it triggers a re-render of the Main component and its child components. This means that the new value of the serviceListToday state will be passed down to both the Mainform and Piechart components as props. So any changes made to the serviceListToday state by the Mainform component will be reflected in both the Mainform and Piechart components.
-
-                        In this way, the Mainform component can indirectly affect the data displayed by the Piechart component by updating the shared state (serviceListToday) in their parent component (Main). But the two child components do not directly pass information to each other. */}
                         </div>
                         <div className="main-currency">
                             <h3 className="main-currency-value main-currency-title">TimeCurrency</h3>
